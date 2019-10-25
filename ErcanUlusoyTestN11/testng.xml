@@ -1,0 +1,7 @@
+<suite name="seleniumercan">
+	<test name="testngTest">
+		<classes>
+			<class name="ercanProject.SeleniumErcan" />
+		</classes>
+	</test>
+</suite>
